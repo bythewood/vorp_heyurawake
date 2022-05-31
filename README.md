@@ -1,3 +1,4 @@
+# DISCLAIMER: This is not functional code! It is being worked on, however, so check back!
 ### VORP_HeyUrAwake
 ## Prelude
 VORP_HeyUrAwake was inspired by [somea#3647](https://discordapp.com/users/301780354723872769). Thanks for the idea!  
